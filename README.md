@@ -34,7 +34,7 @@
 ### ✨ 자전거 대여 시스템 데이터를 이용한 자전거 이용 패턴 분석
 - 📄 내용: 자전거 대여 패턴을 분석하여 대여 수요를 예측하는 모델을 설계
 - 📅 진행기간: 2025.05.09 ~ 2025.05.20
- 🛠️ 사용 툴: Python(pandas, numpy, matplotlib, sklean)
+- 🛠️ 사용 툴: Python(pandas, numpy, matplotlib, sklean)
 - 🔗 링크: https://github.com/jiwon-jung323/git_repo/tree/main/project2
 
 ---
@@ -44,7 +44,7 @@
 ### ✨ 서울시 자치구별 따릉이 이용량 차이
 - 📄 내용: 서울시 공공자전거 서비스인 '따릉이'의 이용량이 자치구별 차이가 발생하는 것에 대해 이용량의 차이가 발생하는 이유에 대해 여러 요인들을 가지고 비교분석함.
 - 📅 진행기간: 2025.02.19 ~ 2025.02.27
- 🛠️ 사용 툴: Python, Tableau, Exel(구글 스프레드시트)
+- 🛠️ 사용 툴: Python, Tableau, Exel(구글 스프레드시트)
 - 🔗 링크: (https://github.com/jiwon-jung323/git_repo/tree/main/teamproject1)
 
 ---
@@ -52,7 +52,7 @@
 ### ✨ 공유 오피스 이벤트 이용자의 유료전환 가능성 예측 및 전략 제안
 - 📄 내용: 공유 오피스의 3일 무료 체험 이벤트 이용자 대상으로 유저들의 행동 패턴들을 분석해 유효 데이터들을 이용하여 유료전환 예측모델링 설계 
 - 📅 진행기간: 2025.06.09 ~ 2025.06.19
- 🛠️ 사용 툴: Python(pandas, numpy, matplotlib, sklean)
+- 🛠️ 사용 툴: Python(pandas, numpy, matplotlib, sklean)
 - 🔗 링크: https://github.com/jiwon-jung323/git_repo/tree/main/teamproject2
 
 ---
