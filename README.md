@@ -39,6 +39,15 @@
 - 🛠️ 사용 툴: Python(pandas, numpy, matplotlib, sklean)
 - 🔗 링크: https://github.com/jiwon-jung323/git_repo/tree/main/project2
 
+
+---
+
+### ✨ 유저별 행동분석 중점을 한 퍼널분석
+- 📄 내용: 취업공고 사이트의 로그데이터를 이용해 유저의 행동분석을 파악하여 이를 기반으로 퍼널분석 진행
+- 📅 진행기간: 2025.07.04 ~ (진행중)
+- 🛠️ 사용 툴: Python(pandas, numpy, matplotlib, sklean)
+- 🔗 링크: 
+
 ---
 
 ## 📂 팀 프로젝트
