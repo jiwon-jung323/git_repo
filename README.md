@@ -29,7 +29,8 @@
 - 📄 내용: 구독서비스에 대한 데이터 30일 분량의 일자별 데이터를 이용해 A/B 테스트 분석을 이용하여 결과를 도출하고 이를 이용해 의사결정을 제안
 - 📅 진행기간: 2025.03.27 ~ 2025.04.01
 - 🛠️ 사용 툴: Python, Tableau, Exel(구글 스프레드시트)
-- 🔗 링크: https://github.com/jiwon-jung323/git_repo/tree/main/project1
+- 🔗 보고서: 
+- 🔗 코드 : https://github.com/jiwon-jung323/git_repo/tree/main/project1
 
 ---
 
@@ -37,7 +38,8 @@
 - 📄 내용: 자전거 대여 패턴을 분석하여 대여 수요를 예측하는 모델을 설계
 - 📅 진행기간: 2025.05.09 ~ 2025.05.20
 - 🛠️ 사용 툴: Python(pandas, numpy, matplotlib, sklean)
-- 🔗 링크: https://github.com/jiwon-jung323/git_repo/tree/main/project2
+- 🔗 보고서: 
+- 🔗 코드: https://github.com/jiwon-jung323/git_repo/tree/main/project2
 
 
 ---
@@ -46,7 +48,8 @@
 - 📄 내용: 취업공고 사이트의 로그데이터를 이용해 유저의 행동분석을 파악하여 이를 기반으로 퍼널분석 진행
 - 📅 진행기간: 2025.07.04 ~ (진행중)
 - 🛠️ 사용 툴: Python(pandas, numpy, matplotlib, sklean)
-- 🔗 링크: 
+- 🔗 보고서: 
+- 🔗 코드: 
 
 ---
 
@@ -56,7 +59,8 @@
 - 📄 내용: 서울시 공공자전거 서비스인 '따릉이'의 이용량이 자치구별 차이가 발생하는 것에 대해 이용량의 차이가 발생하는 이유에 대해 여러 요인들을 가지고 비교분석함.
 - 📅 진행기간: 2025.02.19 ~ 2025.02.27
 - 🛠️ 사용 툴: Python, Tableau, Exel(구글 스프레드시트)
-- 🔗 링크: (https://github.com/jiwon-jung323/git_repo/tree/main/teamproject1)
+- 🔗 보고서: 
+- 🔗 코드: (https://github.com/jiwon-jung323/git_repo/tree/main/teamproject1)
 
 ---
 
@@ -64,7 +68,8 @@
 - 📄 내용: 공유 오피스의 3일 무료 체험 이벤트 이용자 대상으로 유저들의 행동 패턴들을 분석해 유효 데이터들을 이용하여 유료전환 예측모델링 설계 
 - 📅 진행기간: 2025.06.09 ~ 2025.06.19
 - 🛠️ 사용 툴: Python(pandas, numpy, matplotlib, sklean)
-- 🔗 링크: https://github.com/jiwon-jung323/git_repo/tree/main/teamproject2
+- 🔗 보고서: 
+- 🔗 코드: https://github.com/jiwon-jung323/git_repo/tree/main/teamproject2
 
 ---
 
