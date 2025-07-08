@@ -30,7 +30,7 @@
 - 📅 진행기간: 2025.03.27 ~ 2025.04.01
 - 🛠️ 사용 툴: Python, Tableau, Exel(구글 스프레드시트)
 - 🔗 보고서: 
-- 🔗 코드 : https://github.com/jiwon-jung323/git_repo/tree/main/project1
+- 🔗 코드 : https://github.com/jiwon-jung323/git_repo/blob/main/project/project1/project1.ipynb
 
 ---
 
@@ -39,7 +39,7 @@
 - 📅 진행기간: 2025.05.09 ~ 2025.05.20
 - 🛠️ 사용 툴: Python(pandas, numpy, matplotlib, sklean)
 - 🔗 보고서: 
-- 🔗 코드: https://github.com/jiwon-jung323/git_repo/tree/main/project2
+- 🔗 코드: https://github.com/jiwon-jung323/git_repo/blob/main/project/project2/project2.ipynb
 
 
 ---
@@ -60,7 +60,7 @@
 - 📅 진행기간: 2025.02.19 ~ 2025.02.27
 - 🛠️ 사용 툴: Python, Tableau, Exel(구글 스프레드시트)
 - 🔗 보고서: 
-- 🔗 코드: (https://github.com/jiwon-jung323/git_repo/tree/main/teamproject1)
+- 🔗 코드: https://github.com/jiwon-jung323/git_repo/blob/main/teamproject/teamproject1/teamproject_1.ipynb
 
 ---
 
@@ -69,7 +69,7 @@
 - 📅 진행기간: 2025.06.09 ~ 2025.06.19
 - 🛠️ 사용 툴: Python(pandas, numpy, matplotlib, sklean)
 - 🔗 보고서: 
-- 🔗 코드: https://github.com/jiwon-jung323/git_repo/tree/main/teamproject2
+- 🔗 코드: https://github.com/jiwon-jung323/git_repo/blob/main/teamproject/teamproject2/teamproject_2.ipynb
 
 ---
 
