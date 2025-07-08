@@ -14,10 +14,11 @@
 ## 💻 기술 스택
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/GoogleBigQuery.svg" alt="bigquery" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/AirflowLogo.png" alt="airflow" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/GoogleBigQuery.svg" alt="BigQuery" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/AirflowLogo.png" alt="Airflow" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
 </p>
 
 ---
