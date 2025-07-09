@@ -13,12 +13,18 @@
 
 ## 💻 기술 스택
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" 
-  height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40"/>
+<p>
+| 툴                | 내용       | 설명                             |
+|------------------|-------------|---------------------------------|
+| 언어             | Python     | 데이터 처리, 통계 분석, 모델링      |
+| SQL              | SQL        | 대용량 쿼리 작성, 최적화       |
+| 데이터 웨어하우스  | BigQuery   | 데이터로드,테이블 생성, sql 쿼리를 이용한 분석  |
+| 스케줄링          | Airflow     | DAG file을 이용하여 매시간 데이터 추출(스케줄링) |
+| 버전관리          | Git         | 협업 및 버전 관리              |
+| 데이터추출        | api         | 공공데이터 추출              |
+| BI 도구           | Tableau     | 데이터 시각화              |
+| 기타        | ERD Cloud         | 데이터의 관계 시각적으로 설계 |
+| 기타        | Exel         | 기본함수, 데이터분석 툴              |
 </p>
 
 ---
