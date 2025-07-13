@@ -76,7 +76,3 @@
 - 🔗 코드: https://github.com/jiwon-jung323/git_repo/blob/main/teamproject/teamproject2/teamproject_2.ipynb
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_ID]&show_icons=true&theme=default" alt="[YOUR_GITHUB_ID]" />
-</p>
