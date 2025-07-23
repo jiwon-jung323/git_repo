@@ -76,3 +76,12 @@
 - 🔗 코드: https://github.com/jiwon-jung323/git_repo/blob/main/teamproject/teamproject2/teamproject_2.ipynb
 
 ---
+
+### ✨ 미정
+- 📄 내용: 익명투표앱의 데이터를 활용하여 유저행동분석을 통한 인사이트 도출
+- 📅 진행기간: 2025.07.07 ~ 진행중
+- 🛠️ 사용 툴: Python(pandas, numpy, matplotlib, sklean)
+- 🔗 보고서: 
+- 🔗 코드: 
+
+---
