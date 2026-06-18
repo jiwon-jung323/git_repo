@@ -5,7 +5,7 @@
 - 이름: 정지원
 - 학력: 백석대학교 컴퓨터공학부 인공지능학과 졸업(2021.3~2025.2)
 - 이메일: jwjung323@naver.com
-- 관심 분야: 데이터 분석
+- 관심 분야: 데이터 분석, 데이터 설계
 
 ---
 
@@ -64,8 +64,7 @@
 - 📄 내용: 서울시 공공자전거 서비스인 '따릉이'의 이용량이 자치구별 차이가 발생하는 것에 대해 이용량의 차이가 발생하는 이유에 대해 여러 요인들을 가지고 비교분석함.
 - 📅 진행기간: 2025.02.19 ~ 2025.02.27
 - 🛠️ 사용 툴: Python, Tableau, Exel(구글 스프레드시트)
-- 🔗 보고서: 
-- 🔗 코드: https://github.com/jiwon-jung323/git_repo/blob/main/teamproject/teamproject1/teamproject_1.ipynb
+- 🔗 url: https://github.com/jiwon-jung323/git_repo/blob/main/teamproject/teamproject1/teamproject_1.ipynb
 
 ---
 
@@ -73,16 +72,28 @@
 - 📄 내용: 공유 오피스의 3일 무료 체험 이벤트 이용자 대상으로 유저들의 행동 패턴들을 분석해 유효 데이터들을 이용하여 유료전환 예측모델링 설계 
 - 📅 진행기간: 2025.06.09 ~ 2025.06.19
 - 🛠️ 사용 툴: Python(pandas, numpy, matplotlib, sklean)
-- 🔗 보고서: 
-- 🔗 코드: https://github.com/jiwon-jung323/git_repo/blob/main/teamproject/teamproject2/teamproject_2.ipynb
+- 🔗 url: https://github.com/jiwon-jung323/git_repo/blob/main/teamproject/teamproject2/teamproject_2.ipynb
 
 ---
 
 ### ✨ 네트워크에서 행동까지 ,10대 익명 투표앱 실패의 원인과 온보딩 전략 제언.
 - 📄 내용: 익명투표앱의 데이터를 활용하여 유저행동분석을 통한 인사이트 도출
-- 📅 진행기간: 2025.07.07 ~ 진행중
+- 📅 진행기간: 2025.07.07 ~ 2025.08.13
 - 🛠️ 사용 툴: Python(pandas, numpy, matplotlib, sklean)
-- 🔗 보고서: 
-- 🔗 코드: 
+- 🔗 url: 
 
 ---
+
+### ✨ 중고거래 플랫폼 통합 검색·가격 비교 서비스 (Hama)
+- 역할: 멀티 플랫폼 데이터 파이프라인 및 백엔드·DB 설계
+- 📅진행기간: 2026.03.16 ~ 2026.06
+- 유형: 팀프로젝트 (팀장) | 4명
+- 🛠️사용 툴: Python, FastAPI, PostgreSQL(Supabase), pandas, Git 
+- 🔗url: https://github.com/jiwon-jung323/kdtproject
+- 📄내용
+   - 번개장터·중고나라 등 플랫폼별로 분산된 중고 상품 정보를 통합 검색·가격 비교하기 어려움.
+   - 번개장터 API 오탐으로 검색 결과에 다른 모델·액세서리가 섞여 가격 통계가 왜곡된다는 문제 확인.
+   - 팀장으로 DB 스키마 설계, 크롤링·전처리·적재 파이프라인 및 FastAPI MVP API 구축.
+   - 규칙 기반 정합성 필터·토큰 매칭·가격 이상치 분석으로 상품명 표준화 파이프라인 설계.
+   - 필터 적용 전후 비교로 오탐 2,563건(31.7%) 제거, 20,000건+ 데이터 정제·적재.
+   - OpenSearch·Supabase 연동으로 통합 검색 MVP 시연 환경 구축.
